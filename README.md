@@ -9,3 +9,6 @@ Labeling system for single scan line lidar files
 4. label plots by clicking on parts you want labeled as obstacles
 5. when doen labeling a plot, close the matplot lib window to save to an outfile
 6. repeat steps 3-5 for remaining in files
+
+# TO-DO
+flesh out readme.md
